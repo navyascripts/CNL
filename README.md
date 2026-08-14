@@ -1,2 +1,0 @@
-# CNL
-CNL Assignments
